@@ -20,4 +20,9 @@ h2 {
 
 a {
     color: aquamarine;
+    display: block;
+}
+
+video {
+    margin: 2rem;
 }

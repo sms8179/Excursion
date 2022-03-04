@@ -36,3 +36,8 @@ img {
     display: block;
     margin: 2rem auto;
 }
+
+footer {
+    text-align: right;
+    padding: 0 2rem;
+}

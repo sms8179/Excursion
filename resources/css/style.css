@@ -24,5 +24,15 @@ a {
 }
 
 video {
-    margin: 2rem;
+    margin-top: 2rem;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+img {
+    display: block;
+    margin: 2rem auto;
 }
